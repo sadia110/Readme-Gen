@@ -30,17 +30,15 @@ ${response.License}
 ${response.Contributors} 
 
 ## Test 
-${response.test} 
+${response.Test} 
 
 ## Questions 
-For any questions or comments contact me at : 
+You can contact me at : 
 
-Github : 
-Email:   
- 
+## Github : 
+## Email:   
+
+;}`
 
 
 module.export =generateMarkdown 
-
-
-
